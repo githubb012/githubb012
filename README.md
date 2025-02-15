@@ -17,7 +17,7 @@ I'm a highly motivated and experienced DevOps engineer with a passion for delive
 <img src="https://media.gifdb.com/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" alt="https://media.gifdb.com/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 <h1 align="center"></h1>
-<h3 align="center">A passionate devops engineer and backend developer.</h3>
+<h3 align="center">A passionate Devops/Cloud and Site Reliability Engineer.</h3>
 
 <h3 align="left">Connect with me: manii012@proton.me </h3>
 <p align="left">
