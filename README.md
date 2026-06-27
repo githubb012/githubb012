@@ -9,7 +9,6 @@ I'm a highly motivated and experienced DevOps engineer with a passion for delive
 * **Jenkins**: Skilled in automating CI/CD pipelines using Jenkins
 * **GitHub Actions**: Proficient in automating workflows using GitHub Actions
 * **AWS**: Experienced in deploying and managing applications on AWS
-* **Terraform**: Experienced in working with Infrastructure as Code (IaC)
 * **Python**: Experienced in developing scripts and applications using Python
 * **HTML/CSS**: Proficient in building responsive web applications using HTML and CSS
 * **SQL**: Skilled in designing and querying databases using SQL
