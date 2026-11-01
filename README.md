@@ -40,7 +40,7 @@ I'm interested in software engineering, backend development, DevOps practices, a
 <img src="https://media.gifdb.com/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" alt="https://media.gifdb.com/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 <h1 align="center"></h1>
-<h3 align="center">A passionate Software Engineer. (Devops/Cloud/Site Reliability).</h3>
+<h3 align="center">A passionate Software Engineer (Devops/Cloud/Site Reliability).</h3>
 
 <h3 align="left">Connect with me: manii012@proton.me </h3>
 <p align="left">
