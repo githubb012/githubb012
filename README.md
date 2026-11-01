@@ -6,14 +6,6 @@ My background combines hands-on software development, technical support engineer
 
 ![216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/user-attachments/assets/32687d89-69e1-44fc-ae88-215ed779cdee)
 
-
-* **Programming**: Python, TypeScript, SQL
-* **Backend Development**: FastAPI, REST APIs
-* **Databases**: PostgreSQL, SQLite, Drizzle ORM
-* **DevOps & Tools**: Git, GitHub, GitLab, Linux, Docker, Cloudflare
-* **CI/CD Exposure**: Jenkins, GitHub Actions, CI/CD fundamentals
-* **Software Engineering**: Data Structures, Algorithms, Object-Oriented Programming, Debugging, Unit Testing
-
 ### 🛠️ Technical Skills
 
 - **Programming:** Python, TypeScript, SQL
@@ -48,7 +40,7 @@ I'm interested in software engineering, backend development, DevOps practices, a
 <img src="https://media.gifdb.com/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" alt="https://media.gifdb.com/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 <h1 align="center"></h1>
-<h3 align="center">A passionate Devops/Cloud and Site Reliability Engineer.</h3>
+<h3 align="center">A passionate Software Engineer. (Devops/Cloud/Site Reliability).</h3>
 
 <h3 align="left">Connect with me: manii012@proton.me </h3>
 <p align="left">
