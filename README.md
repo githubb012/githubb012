@@ -7,14 +7,43 @@ My background combines hands-on software development, technical support engineer
 ![216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/user-attachments/assets/32687d89-69e1-44fc-ae88-215ed779cdee)
 
 
-* **Programming**: Experienced in containerizing applications using Docker
+* **Programming**: Python, TypeScript, SQL
 * **Backend Development**: FastAPI, REST APIs
-* **Jenkins**: Skilled in automating CI/CD pipelines using Jenkins
-* **GitHub Actions**: Proficient in automating workflows using GitHub Actions
-* **AWS**: Experienced in deploying and managing applications on AWS
-* **Python**: Experienced in developing scripts and applications using Python
-* **HTML/CSS**: Proficient in building responsive web applications using HTML and CSS
-* **SQL**: Skilled in designing and querying databases using SQL
+* **Databases**: PostgreSQL, SQLite, Drizzle ORM
+* **DevOps & Tools**: Git, GitHub, GitLab, Linux, Docker, Cloudflare
+* **CI/CD Exposure**: Jenkins, GitHub Actions, CI/CD fundamentals
+* **Software Engineering**: Data Structures, Algorithms, Object-Oriented Programming, Debugging, Unit Testing
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, TypeScript, SQL
+- **Backend Development:** FastAPI, REST APIs
+- **Databases:** PostgreSQL, SQLite, Drizzle ORM
+- **DevOps & Tools:** Git, GitHub, GitLab, Linux, Docker, Cloudflare
+- **CI/CD Exposure:** Jenkins, GitHub Actions, CI/CD fundamentals
+- **Software Engineering:** Data Structures, Algorithms, Object-Oriented Programming, Debugging, Unit Testing
+
+### 💻 Featured Project
+
+[**Medical Device Update Simulator**](https://github.com/githubb012/med-device-update-simulator)
+
+A Python-based application that simulates medical device software-update workflows.
+
+- Built using Python, FastAPI, Streamlit, and SQLite.
+- Models simulated device states, software-update conditions, and safety alerts.
+- Includes API functionality, database-backed state management, and event logging.
+- Developed independently to explore software design, application behavior, and troubleshooting.
+
+### 🚀 What I'm Working On
+
+- Building and improving software applications using Python and TypeScript.
+- Strengthening my understanding of data structures, algorithms, and system design.
+- Exploring backend development, database architecture, and software testing.
+- Expanding my knowledge of Linux, containerization, automation, and CI/CD practices.
+
+### 🤝 Let's Connect
+
+I'm interested in software engineering, backend development, DevOps practices, and opportunities to collaborate on meaningful technical projects.
 
 <img src="https://media.gifdb.com/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif" alt="https://media.gifdb.com/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
